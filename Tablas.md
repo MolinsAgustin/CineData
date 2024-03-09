@@ -1,7 +1,7 @@
 Para diseñar una base de datos detallada que abarque el amplio espectro de la industria cinematográfica, incluyendo películas, directores, actores, géneros y premios, abordaremos un modelo que facilitará el manejo de información compleja y variada inherente a este sector. Este modelo permitirá no solo almacenar datos fundamentales, sino también realizar análisis profundos y consultas específicas para entender mejor las dinámicas y tendencias del cine.
 
 ## Tabla: Película
-ID_Pelicula (INT, clave primaria, autoincrementable): Identificador único para cada película.
+ID_Pelicula (INT, clave primaria, autoincrementable): Identificador único para cada película.\n
 Titulo (VARCHAR(255)): El nombre de la película.
 fecha_Lanzamiento (DATE): Año de lanzamiento de la película.
 Duracion (INT): Duración de la película en minutos.
