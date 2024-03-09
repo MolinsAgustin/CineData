@@ -1,9 +1,12 @@
 Para diseñar una base de datos detallada que abarque el amplio espectro de la industria cinematográfica, incluyendo películas, directores, actores, géneros y premios, abordaremos un modelo que facilitará el manejo de información compleja y variada inherente a este sector. Este modelo permitirá no solo almacenar datos fundamentales, sino también realizar análisis profundos y consultas específicas para entender mejor las dinámicas y tendencias del cine.
 
 ## Tabla: Película
-ID_Pelicula (INT, clave primaria, autoincrementable): Identificador único para cada película.\n
+ID_Pelicula (INT, clave primaria, autoincrementable): Identificador único para cada película.
+
 Titulo (VARCHAR(255)): El nombre de la película.
+
 fecha_Lanzamiento (DATE): Año de lanzamiento de la película.
+
 Duracion (INT): Duración de la película en minutos.
 Sinopsis (TEXT): Descripción breve de la trama de la película.
 Idioma (VARCHAR(100)): Idiomas disponibles.
@@ -41,7 +44,9 @@ Descripcion (TEXT): Descripción del género.
 
 ## Tabla: Premio
 ID_Premio (INT, clave primaria, autoincrementable): Identificador único para cada premio.
+
 Nombre (VARCHAR(255)): Nombre del premio (Óscar, Globo de Oro, etc.).
+
 Categoria (VARCHAR(255)): Categoría del premio (Mejor Película, Mejor Director, etc.).
 Edicion (INT): Año en que se otorgó el premio.
 ID_Pelicula (INT, clave foránea): Película ganadora del premio.
