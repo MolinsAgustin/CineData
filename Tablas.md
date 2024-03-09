@@ -53,5 +53,5 @@ Nombre (VARCHAR(255)): Nombre de la empresa.
 Pais (VARCHAR(100)): País de origen de la empresa.
 
 ## Tabla: Película_Género
-ID_Pelicula (INT, clave foránea): Identificador de la película. 
+ID_Pelicula (INT, clave foránea): Identificador de la película.
 ID_Genero (INT, clave foránea): Identificador del género.
