@@ -33,7 +33,7 @@ Fecha_Nacimiento (DATE): Fecha de nacimiento.
 
 Nacionalidad (VARCHAR(100)): País de origen.
 
-Tabla: Puesto
+## Tabla: Puesto
 
 ID_Puesto (INT, clave primaria, autoincrementable): Identificador único para cada persona.
 
