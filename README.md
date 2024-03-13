@@ -6,8 +6,8 @@ CineData Trabajo práctico grupal para la materia Ingeniería de Datos I en la U
 En primer lugar hay que clonar el repositorio a un repositorio local.
 
 Luego, a partir del archivo  [Script creacion BD](SQL/Script_creacion_BD.sql), que debe ser abierto en un gestor de base de datos (en nuestro caso usamos SQL Server Managment Studio, como mencioné antes):
-- Seleccionar CREATE DATABASE CineData y ejecutarlo.
-- Seleccionar USE CineDATA GO y ejecutarlo.
+- Seleccionar 'CREATE DATABASE CineData' y ejecutarlo.
+- Seleccionar 'USE CineDATA GO' y ejecutarlo.
 - Seleccionar todo el apartado de tablas y foreign keys y ejecutarlo.
 - Seleccionar los procedimientos almacenados y toda la inserción de datos y ejecutarlo.
 
