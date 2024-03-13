@@ -16,7 +16,7 @@ Es importante hacerlo por partes, ya que sino pueden haber errores. Una vez segu
 
 # Sugerencias
 
-```
+``
 Si tienes alguna idea para mejorar nuestro proyecto o encontraste algún error, no dudes hacer un pull request. Tu retroalimentación nos ayuda a crear una experiencia aún mejor para nuestros usuarios. También puedes contactarme en mi [email](mailto:camolins2404@gmail.com).
-```
+``
 
